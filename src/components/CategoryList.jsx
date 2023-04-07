@@ -24,7 +24,7 @@ const CategoryList = () => {
         initial="hidden"
         whileInView="show"
         viewport={{ once: false, amount: 0.25 }}
-        className="grid md:grid-cols-3 grid-cols-2 justify-center items-center gap-6 my-20 mx-10"
+        className="grid md:grid-cols-3 grid-cols-2 justify-center items-center gap-6 my-4 mx-10"
       >
         {/* Category Link Ciencia */}
 

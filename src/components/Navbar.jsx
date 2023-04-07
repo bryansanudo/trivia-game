@@ -18,7 +18,7 @@ const Navbar = () => {
           variants={zoomIn(0, 0.5)}
           className="text-white text-2xl font-bold hover:scale-110 transition-all duration-500"
         >
-          Quiz App
+          Trivia App
         </motion.h1>
       </Link>
     </motion.header>

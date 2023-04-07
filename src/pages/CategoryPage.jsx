@@ -53,9 +53,9 @@ const CategoryPage = () => {
             <h1 className="text-3xl text-teal-900 text-center font-bold">
               {category}
             </h1>
-            <div className="flex justify-center items-center">
+            {/* <div className="flex justify-center items-center">
               <img src={imgCategory} alt={category} className="w-72" />
-            </div>
+            </div> */}
           </div>
 
           <motion.button
